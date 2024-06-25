@@ -31,7 +31,8 @@ function App() {
       <br />
       <img src={imageUrl}></img>   
       <Title />  
-     
+      <h1>This is for testing</h1>
+      <h2>This is another code</h2>
       
     </div>
    
